@@ -1,4 +1,4 @@
-fufunction insert_Row() {
+function insert_Row() {
     const table = document.getElementById('sampleTable');
     const newRow = table.insertRow(0);
     
